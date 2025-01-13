@@ -1,0 +1,70 @@
+{
+  "john_doe": {
+    "name": "john_doe",
+    "followers": 1520,
+    "following": 345,
+    "posts": [
+      {
+        "image": "https://cnmi.spmi.pt/wp-content/uploads/2014/10/speaker-3.jpg",
+        "likes": 320,
+        "comments": 190
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdftMTz2woyGr0rwkw95l13jojCjgmCztYg&s",
+        "likes": 210,
+        "comments": 88
+      }
+    ]
+  },
+  "mike_adams": {
+    "name": "mike_adams",
+    "followers": 1780,
+    "following": 389,
+    "posts": [
+      {
+        "image": "https://media.gettyimages.com/id/98818574/photo/miami-fl-pitcher-mike-adams-of-the-san-diego-padres-pitches-during-a-mlb-game-against-the.jpg?s=612x612&w=gi&k=20&c=eLTk3mJrRL6e-yLeWCmHD-2yDE13J4fr-E0kNi0XbGg=",
+        "likes": 250,
+        "comments": 19
+      },
+      {
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2020/07/200724-mike-adams-wilmington.jpg?quality=75&strip=all",
+        "likes": 190,
+        "comments": 89
+      }
+    ]
+  },
+  "sarah_smith": {
+    "name": "sarah_smith",
+    "followers": 2450,
+    "following": 410,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+        "likes": 500,
+        "comments": 300
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1",
+        "likes": 420,
+        "comments": 250
+      }
+    ]
+  },
+  "alex_jones": {
+    "name": "alex_jones",
+    "followers": 1980,
+    "following": 340,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+        "likes": 380,
+        "comments": 150
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd",
+        "likes": 300,
+        "comments": 120
+      }
+    ]
+  }
+}
