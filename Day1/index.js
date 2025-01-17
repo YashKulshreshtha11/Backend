@@ -7,11 +7,11 @@ app.listen(port, ()=>{
     console.log(`app is listening on port ${port}`);
 })
 
-app.get('/',(req,res)=>{
-    console.log("Request Recieved");
-    let response = "<h1>Hey! I am root</h1>"
-    res.send(response);
-})
+// app.get('/',(req,res)=>{
+//     console.log("Request Recieved");
+//     let response = "<h1>Hey! I am root</h1>"
+//     res.send(response);
+// })
 // app.get('/Name',(req,res)=>{
 //     console.log("Request Recieved");
 //     const response = "<h1>You are on the Name routing</h1> <ul><li>Name: Yash</li></ul>"
