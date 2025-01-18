@@ -20,5 +20,5 @@ app.get('/register',(req,res)=>{
 app.post('/register',(req,res)=>{
     console.log(req.body);
     let {name, password} = req.body;
-    res.send(`<h1>Standard POST Response</h1><br><h3>Hey! welcome ${name}..</h3>`)
+    res.send(`<h1>Standard POST Response</h1><br><h3>Hey! ${name}, Your information is successfully stored..</h3>`)
 })
